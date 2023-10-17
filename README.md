@@ -1,2 +1,5 @@
-# Hello-Brother
-This is Hello Brother Program Written in C language.
+#include<stdio.h>
+void main()
+{
+printf(Hello Brother....!!!!);
+}
